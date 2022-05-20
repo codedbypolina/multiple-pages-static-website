@@ -1,0 +1,29 @@
+body {
+  background-color: #f7e8a6;
+}
+
+h1,
+p {
+  text-align: center;
+}
+
+.links {
+  display: flex;
+  justify-content: center;
+}
+
+.links a {
+  padding: 7px;
+  color: blueviolet;
+}
+
+img {
+  width: 600px;
+  border-radius: 90px;
+  padding: 0px;
+}
+
+.image {
+  display: flex;
+  justify-content: center;
+}
